@@ -1,0 +1,15 @@
+{
+  "name": "group-7-hub",
+  "version": "1.0.0",
+  "description": "GROUP 7 HUB learning, gaming and song portal",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.1.0",
+    "express-session": "^1.18.2",
+    "sqlite3": "^5.1.7"
+  }
+}
